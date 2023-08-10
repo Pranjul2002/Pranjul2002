@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjul Khankriyal</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjul2002" alt="pranjul2002" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structure and algorithm in java.**
 
 - 👨‍💻 All of my projects are available at [https://pranjul2002.github.io/Porfolio/](https://pranjul2002.github.io/Porfolio/)
