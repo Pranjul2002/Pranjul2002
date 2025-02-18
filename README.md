@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure and algorithm in java.**
 
-- 👨‍💻 All of my projects are available at https://pranjul2002.github.io/Portfolio/
+- 👨‍💻 All of my projects and about me are available at https://pranjul-portfolio.netlify.app/
 
 
 - 📫 How to reach me **shivamkhankriyal515@gmail.com**
