@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjul Khankriyal</h1>
+<h1 align="center">Hi 👋 <br> I'm Pranjul Khankriyal</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structure and algorithm in java.**
